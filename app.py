@@ -135,3 +135,5 @@ if __name__ == "__main__":
 #it will take you write in {{ }} and give you the result of that as a string
 #need to use a function url_for, import first
 #flow for linking the stylesheet is similar for JavaScript
+
+#gunicorn creates a webserver, and need to tell Procfile what file to create a web server for
