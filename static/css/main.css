@@ -3,13 +3,20 @@ body {
 	font-family: sans-serif;
 }
 
+table {
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
 td {
 	text-align: center;
-	padding: 5px;
+	padding: 10px;
 }
 
 .form {
-	margin-top: 20px;
+  	margin-left: auto;
+  	margin-right: auto;
+	width: 300px;
 }
 
 #content {
